@@ -1,0 +1,5 @@
+{
+  "watch": ["."],
+  "ignore": ["leetcode-repo"],
+  "ext": "js,json"
+}
